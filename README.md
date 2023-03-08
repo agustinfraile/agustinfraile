@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Agustin, a full-time full-stack developer 👨‍💻 since 2020🚀</div>  
+### <div align="center">Hola 👋 mi nombre es Agustin y soy un desarrollador full-stack especializado en Front End 👨‍💻 🚀</div>  
   
 
 <br/>  
