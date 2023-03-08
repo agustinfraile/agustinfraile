@@ -33,4 +33,4 @@
 
 <br/>  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=agustinfraile&show_icons=true&locale=en&layout=compact" alt="agustinfraile" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=agustinfraile&show_icons=true&locale=en&layout=compact" alt="agustinfraile" /></p>
